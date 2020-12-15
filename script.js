@@ -14,5 +14,7 @@ $(document).keydown(function (event) {
         return false;
     } else if (event.ctrlKey && event.keyCode == 67){
         return false;
+    } else if (event.ctrlKey && event.keyCode == 86){
+        return false;
     }
 });
