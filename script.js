@@ -1,5 +1,5 @@
 function serviceOut(){
-    $('#ServiceOutModal').modal({backdrop: "static"});
+    $('#ServiceOutModal').modal({keyboard: false, backdrop: "static"});
 };
 serviceOut();
 //DİSABLE CONTEXTMENU
