@@ -1,3 +1,7 @@
+function serviceOut(){
+    $('#ServiceOutModal').modal('toggle');
+};
+serviceOut();
 //DİSABLE CONTEXTMENU
 $(document).on("contextmenu", function (e) {        
     e.preventDefault();
