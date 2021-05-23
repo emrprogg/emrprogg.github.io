@@ -71,6 +71,14 @@ export default {
   filter: drop-shadow(rgba(0, 0, 0, 0.2) 0px 20px 30px);
 }
 
+.profile-picture:hover{
+  -moz-transform:    scaleX(-1);
+  -o-transform:      scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform:         scaleX(-1);
+  filter: FlipH;
+}
+
 .subtitle {
   color: var(--text-secondary);
 }
