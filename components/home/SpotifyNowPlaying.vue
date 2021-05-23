@@ -83,10 +83,8 @@ export default {
     },
   },
   async fetch() {
-    this.intervalid1 = setInterval(async() => {
       var songData = await fetch('https://api.lanyard.rest/v1/users/441221465019514881').then((res) => res.json())
       this.spotifyData = songData.data
-    }, 0);
   },
 }
 </script>
