@@ -35,7 +35,7 @@ export default {
   },
   async fetch() {
     var data = await fetch(
-      'https://api.github.com/users/emrprogg/repos'
+      'https://api.github.com/users/Emrah-Aras/repos'
     ).then((res) => res.json())
 
     this.repositoryData = data.slice(0, 6)
