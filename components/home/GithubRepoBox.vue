@@ -1,7 +1,7 @@
 <template>
   <a :href="url" target="_blank">
     <div class="box repoBox">
-      <a :href="url" class="title is-4 mb-1">
+      <a :href="url" target="_blank" class="title is-4 mb-1">
         <svg
           aria-label="Repository"
           class="octicon octicon-repo flex-shrink-0"
