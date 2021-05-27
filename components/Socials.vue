@@ -1,6 +1,6 @@
 <template>
   <div class="socials has-text-centered-mobile">
-    <a href="https://github.com/emrprogg" target="_blank">
+    <a href="https://github.com/Emrah-Aras" target="_blank">
       <span class="icon social">
         <center>
           <i class="fab fa-github"></i>
