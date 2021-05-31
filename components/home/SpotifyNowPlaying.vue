@@ -37,11 +37,11 @@
                     <progress
                       class="progress is-small has-text-white"
                       :value="
-                        Date.now() - spotifyData.activities[0].timestamps.start
+                        Date.now() - spotifyData.spotify.timestamps.start
                       "
                       :max="
-                        spotifyData.activities[0].timestamps.end -
-                        spotifyData.activities[0].timestamps.start
+                        spotifyData.spotify.timestamps.end -
+                        spotifyData.spotify.timestamps.start
                       "
                     ></progress>
                   </div>
@@ -51,8 +51,8 @@
                 <p class="song-end-time">
                   {{
                     msToSeconds(
-                      spotifyData.activities[0].timestamps.end -
-                        spotifyData.activities[0].timestamps.start
+                      spotifyData.spotify.timestamps.end -
+                        spotifyData.spotify.timestamps.start
                     )
                   }}
                 </p>
