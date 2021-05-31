@@ -4,12 +4,12 @@
       <p class="heading has-text-centered">Who am I?</p>
       <br />
       <p class="whoami-text">
-        I am a Turkish science high school student interested in coding. My goal
+        I am a Turkish high school student interested in coding. My goal
         is is to make things that people can easily use. I'm trying to learn
         most of the things that I can learn, although I am mostly focused on
         JavaScript. I enjoy sharing my projects as open source. So this website
         is open source!
-        <a href="https://github.com/emrprogg">
+        <a target="_blank" href="https://github.com/Emrah-Aras">
           Check out my Github!
         </a>
       </p>
