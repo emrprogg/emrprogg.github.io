@@ -1,7 +1,17 @@
 {
+  "author": {
+    "name": "Emrah Aras",
+    "email": "arasemr1234@gmail.com",
+    "url": "https://emraharas.cf/"
+  },
   "name": "blog",
   "version": "1.0.0",
-  "private": true,
+  "homepage": "https://github.com/Emrah-Aras/Emrah-Aras.github.io#readme",
+  "bugs": {
+    "url" : "https://github.com/owner/project/issues",
+    "email": "arasemr1234@gmail.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
