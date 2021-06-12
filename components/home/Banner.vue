@@ -4,7 +4,7 @@
       <div class="column is-3">
         <div class="profile-picture">
           <b-image
-            src="logo.png"
+            src="https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256"
             :rounded="true"
             alt="Emrah-Aras profile picture."
             v-if="!loading"

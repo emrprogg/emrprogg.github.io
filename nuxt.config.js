@@ -39,11 +39,11 @@ export default {
       },
       {
         property: 'og:url',
-        content: 'https://emrah-aras.xyz',
+        content: 'https://emraharas.cf',
       },
       {
         property: 'og:title',
-        content: 'Emrah-Aras | emrah-aras.xyz',
+        content: 'Emrah-Aras | emraharas.cf',
       },
       {
         property: 'og:description',
@@ -53,7 +53,7 @@ export default {
       {
         property: 'og:image',
         content:
-          '/readmeBannerImage.png',
+          'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256',
       },
 
       // Twitter metada's
@@ -77,11 +77,11 @@ export default {
       {
         property: 'twitter:image',
         content:
-          '/readmeBannerImage.png',
+          'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256',
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/logo.png' },
+      { rel: 'icon', type: 'image/x-icon', href: 'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256' },
       {
         rel: 'stylesheet',
         href:
