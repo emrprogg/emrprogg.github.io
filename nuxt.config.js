@@ -3,7 +3,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'emrah-aras.xyz | Emrah-Aras',
+    title: 'emraharas.cf | Emrah-Aras',
     htmlAttrs: {
       lang: 'en',
     },
