@@ -53,7 +53,7 @@ export default {
       {
         property: 'og:image',
         content:
-          'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256',
+          'https://cdn.discordapp.com/avatars/441221465019514881/a_1c54ceea979bb2ea395d0002a6e95e53.gif?size=256',
       },
 
       // Twitter metada's
@@ -63,11 +63,11 @@ export default {
       },
       {
         property: 'twitter:url',
-        content: 'https://emrah-aras.xyz',
+        content: 'https://emraharas.cf',
       },
       {
         property: 'twitter:title',
-        content: 'Emrah-Aras | emrah-aras.xyz',
+        content: 'Emrah-Aras | emraharas.cf',
       },
       {
         property: 'twitter:description',
@@ -77,11 +77,11 @@ export default {
       {
         property: 'twitter:image',
         content:
-          'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256',
+          'https://cdn.discordapp.com/avatars/441221465019514881/a_1c54ceea979bb2ea395d0002a6e95e53.gif?size=256',
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'https://cdn.discordapp.com/avatars/441221465019514881/a_d28374d0e8c224a9a9598367bc5bd095.gif?size=256' },
+      { rel: 'icon', type: 'image/x-icon', href: 'https://cdn.discordapp.com/avatars/441221465019514881/a_1c54ceea979bb2ea395d0002a6e95e53.gif?size=256' },
       {
         rel: 'stylesheet',
         href:
