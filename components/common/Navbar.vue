@@ -2,7 +2,7 @@
   <b-navbar wrapper-class="container">
     <template #brand>
       <b-navbar-item tag="router-link" :to="{ path: '/' }">
-        emrah-aras.xyz
+        emraharas.xyz
       </b-navbar-item>
     </template>
 
