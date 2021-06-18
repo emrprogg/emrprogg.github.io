@@ -3,14 +3,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'emraharas.cf | Emrah-Aras',
+    title: 'emraharas.xyz | Emrah-Aras',
     htmlAttrs: {
       lang: 'en',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emrah-aras.xyz.' },
+      { hid: 'description', name: 'description', content: 'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emraharas.xyz.' },
       {
         name: 'keywords',
         content:
@@ -39,16 +39,16 @@ export default {
       },
       {
         property: 'og:url',
-        content: 'https://emraharas.cf',
+        content: 'https://emraharas.xyz',
       },
       {
         property: 'og:title',
-        content: 'Emrah-Aras | emraharas.cf',
+        content: 'Emrah-Aras | emraharas.xyz',
       },
       {
         property: 'og:description',
         content:
-          'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emrah-aras.xyz.',
+          'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emraharas.xyz.',
       },
       {
         property: 'og:image',
@@ -63,16 +63,16 @@ export default {
       },
       {
         property: 'twitter:url',
-        content: 'https://emraharas.cf',
+        content: 'https://emraharas.xyz',
       },
       {
         property: 'twitter:title',
-        content: 'Emrah-Aras | emraharas.cf',
+        content: 'Emrah-Aras | emraharas.xyz',
       },
       {
         property: 'twitter:description',
         content:
-          'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emrah-aras.xyz  .',
+          'Emrah Aras is a frontend developer whose native language is javascript. Emrah-Aras also develops Discord bots using node.js. His website is emraharas.xyz.',
       },
       {
         property: 'twitter:image',
